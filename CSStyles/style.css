@@ -1,0 +1,47 @@
+body{
+    background-color:rgb(255, 255, 255);
+    color: green;
+ /*   background-image: url('../img/js.png'); */
+    background-repeat: repeat;
+}
+
+.headerClass{
+    background-color: rgba(255, 255, 255, 0.144);
+}
+
+#anchorTag a{
+    color: red;
+}
+
+#imageJs{
+    background-color: burlywood;
+}
+
+.offer{
+    position: relative;
+    background-color: aqua;
+    padding: 20px;
+    border: 10px double brown;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.offer h1{
+   font-family: 'Gaegu', cursive;
+   
+}
+
+.offer p{
+    font: 'Lato', sans-serif;
+}
+
+.offer img{
+    width:100px;
+    height: 100px;
+    position: absolute;
+    top: -60px;
+    bottom: auto;
+    left:auto;
+    right: -60px;
+}
